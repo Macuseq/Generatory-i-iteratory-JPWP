@@ -3,6 +3,5 @@
 
 #stworzyć iterator z listy [10, 20, 30],
 #użyć next() do pobrania elementów
-#obsłużyć sytuację, gdy elementy się skończą (czyli wyjątek StopIteration).
 
 numbers = [10, 20, 30]
